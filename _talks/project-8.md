@@ -4,7 +4,7 @@ collection: project
 #type: "Conference proceedings talk"
 permalink: /talks/project-8
 #venue: "Testing Institute of America 2014 Annual Conference"
-date: Fall 2023
+date: 2023-11-01
 #location: "Los Angeles, CA"
 ---
 
