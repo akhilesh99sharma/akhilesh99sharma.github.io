@@ -4,7 +4,7 @@ collection: project
 #type: "Talk"
 permalink: /talks/project-1
 #venue: "London School of Testing"
-date: Spring 2020
+date: 2020-03-01 
 #location: "London, UK"
 ---
 
