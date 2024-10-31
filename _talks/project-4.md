@@ -4,7 +4,7 @@ collection: project
 #type: "Talk"
 #permalink: /talks/project-4
 #venue: "London School of Testing"
-date: Fall 2022
+date: 2022-11-01
 #location: "London, UK"
 ---
 
